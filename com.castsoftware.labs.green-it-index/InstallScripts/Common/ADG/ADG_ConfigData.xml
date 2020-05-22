@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<DATA model='Central' version='3.0.0' scope='GreenMetricScope' export='OK'>
+<DATA model='Central Model' version='3.0.0' scope='GreenMetricScope' export='OK'>
   <DSS_METRIC_TYPES>
     <METRIC_DEPENDS_ON/>
     <METRIC_DESCRIPTION>GreenIT assess the level of resources that are wasted on account of

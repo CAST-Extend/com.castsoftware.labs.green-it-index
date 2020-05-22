@@ -1,4 +1,10 @@
 <config name="Assessment Model" version="1.0.0.20" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="CAST_XMLDB_Format.xsd">
+  <table name="COST_CONFIG" description="This table parametrizes the costs">
+    <column name="PROFILE_NAME" type="string" nullable="false" length="255" description="" />
+    <column name="TECHNO_ID" type="int" nullable="false" description="Technology Identifier" />
+    <column name="COST_VALUE_INDEX" type="int" nullable="false" description="Cost value index: 0: cost, 1: low rate, 2: average rate, 3: high, 4: very high" />
+    <column name="COST_NUM_VALUE" type="num" nullable="false" precision="53" description="Cost value" />
+  </table>
   <table name="DSS_METRIC_TYPES" description="Definition of metrics">
     <column name="METRIC_ID" type="int" nullable="false" description=" " />
     <column name="METRIC_NAME" type="string" nullable="true" length="255" description=" " />
@@ -100,11 +106,14 @@
     </index>
   </table>
   
-  <scope name="GreenMetricScope">
+  <scope name="scope_metrics">
   	<scopetable name="DSS_METRIC_TYPES" filter="(METRIC_ID BETWEEN 20140522 AND 20140526)"/>
   	<scopetable name="DSS_METRIC_TYPE_TREES" filter="(METRIC_PARENT_ID BETWEEN 20140522 AND 20140526) OR (METRIC_ID BETWEEN 20140522 AND 20140526)"/>
   	<scopetable name="DSS_METRIC_VALUE_TYPES" filter="(METRIC_ID BETWEEN 20140522 AND 20140526)"/>
   	<scopetable name="DSS_METRIC_DESCRIPTIONS" filter="(METRIC_ID BETWEEN 20140522 AND 20140526)"/>
+  	<scopetable name="DSS_METRIC_PARAM_TYPES" filter="(METRIC_ID BETWEEN 20140522 AND 20140526)"/>
+  	<scopetable name="DSS_METRIC_PARAM_VALUES" filter="(METRIC_ID BETWEEN 20140522 AND 20140526)"/>
+  	<scopetable name="DSS_METRIC_STATUS_THRESHOLDS" filter="(METRIC_ID BETWEEN 20140522 AND 20140526)"/>
   </scope>
 
- </config>
+</config>
