@@ -1,6 +1,5 @@
-<?xml version="1.0"?>
-
-<metics>
+<?xml version="1.0" encoding="UTF-8"?>
+<metrics>
   <metric extern="true" id="60005" type="folder" originalName="Technical Criteria" active="N/A" detached="N/A" ignored="false"/>
   <metric extern="true" id="66030" type="folder" originalName="Rule Compliance" active="N/A" detached="N/A" ignored="false"/>
   <metric id="20140522" originalName="GreenIT" type="business-criterion" extern="false" active="true" detached="false" ignored="false"/>
@@ -197,4 +196,4 @@
   <metric id="8100" originalName="Blocking synchronous calls should have associated timeouts" type="quality-rule" extern="true" active="true" detached="false" ignored="false"/>
   <metric id="8104" originalName="Close database resources ASAP" type="quality-rule" extern="true" active="true" detached="false" ignored="false"/>
   <metric id="8108" originalName="Avoid missing release of stream connection after an effective lifetime" type="quality-rule" extern="true" active="true" detached="false" ignored="false"/>
-</metics>
+</metrics>

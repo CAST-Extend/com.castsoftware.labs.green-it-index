@@ -1,6 +1,5 @@
-<?xml version="1.0"?>
-
-<metics>
+<?xml version="1.0" encoding="UTF-8"?>
+<metrics>
   <metric id="20140522" contributorId="20140523" critical="false" value="8" contributorOriginalName="GreenIT - focus on pipe leaks - data access efficiency" contributorType="technical-criterion" originalName="GreenIT" type="business-criterion" weight="8"/>
   <metric id="20140522" contributorId="20140524" critical="false" value="8" contributorOriginalName="GreenIT - focus on pipe ruptures - avoiding failure" contributorType="technical-criterion" originalName="GreenIT" type="business-criterion" weight="8"/>
   <metric id="20140522" contributorId="20140525" critical="false" value="8" contributorOriginalName="GreenIT - focus on pipe leaks - algorithmic costs" contributorType="technical-criterion" originalName="GreenIT" type="business-criterion" weight="8"/>
@@ -196,4 +195,4 @@
   <metric id="20140526" contributorId="8100" critical="false" value="9" contributorOriginalName="Blocking synchronous calls should have associated timeouts" contributorType="quality-rule" originalName="GreenIT - focus on pipe leaks - resource economy" type="technical-criterion" weight="9"/>
   <metric id="20140526" contributorId="8104" critical="true" value="8" contributorOriginalName="Close database resources ASAP" contributorType="quality-rule" originalName="GreenIT - focus on pipe leaks - resource economy" type="technical-criterion" weight="8"/>
   <metric id="20140526" contributorId="8108" critical="false" value="5" contributorOriginalName="Avoid missing release of stream connection after an effective lifetime" contributorType="quality-rule" originalName="GreenIT - focus on pipe leaks - resource economy" type="technical-criterion" weight="5"/>
-</metics>
+</metrics>

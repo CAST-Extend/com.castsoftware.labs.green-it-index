@@ -1,49 +1,48 @@
-<?xml version="1.0"?>
-
-<metics>
-  <metric id="20140522" section="shortName" originalName="GreenIT" type="business-criterion">
+<?xml version="1.0" encoding="UTF-8"?>
+<metrics>
+  <metric attrs="list(id = &quot;20140522&quot;, section = &quot;shortName&quot;, originalName = &quot;GreenIT&quot;, type = &quot;business-criterion&quot;)">
     <english>GITI</english>
   </metric>
-  <metric id="20140522" section="name" originalName="GreenIT" type="business-criterion">
+  <metric attrs="list(id = &quot;20140522&quot;, section = &quot;name&quot;, originalName = &quot;GreenIT&quot;, type = &quot;business-criterion&quot;)">
     <english>GreenIT index</english>
   </metric>
-  <metric id="20140522" section="rationale" originalName="GreenIT" type="business-criterion">
+  <metric attrs="list(id = &quot;20140522&quot;, section = &quot;rationale&quot;, originalName = &quot;GreenIT&quot;, type = &quot;business-criterion&quot;)">
     <english>GreenIT index</english>
   </metric>
-  <metric id="20140523" section="shortName" originalName="GreenIT - focus on pipe leaks - data access efficiency" type="technical-criterion">
+  <metric attrs="list(id = &quot;20140523&quot;, section = &quot;shortName&quot;, originalName = &quot;GreenIT - focus on pipe leaks - data access efficiency&quot;, type = &quot;technical-criterion&quot;)">
     <english>GITI-LK</english>
   </metric>
-  <metric id="20140523" section="name" originalName="GreenIT - focus on pipe leaks - data access efficiency" type="technical-criterion">
+  <metric attrs="list(id = &quot;20140523&quot;, section = &quot;name&quot;, originalName = &quot;GreenIT - focus on pipe leaks - data access efficiency&quot;, type = &quot;technical-criterion&quot;)">
     <english>GreenIT - focus on pipe leaks - data access efficiency</english>
   </metric>
-  <metric id="20140523" section="rationale" originalName="GreenIT - focus on pipe leaks - data access efficiency" type="technical-criterion">
+  <metric attrs="list(id = &quot;20140523&quot;, section = &quot;rationale&quot;, originalName = &quot;GreenIT - focus on pipe leaks - data access efficiency&quot;, type = &quot;technical-criterion&quot;)">
     <english>GreenIT - focus on pipe leaks - data access efficiency</english>
   </metric>
-  <metric id="20140524" section="shortName" originalName="GreenIT - focus on pipe ruptures - avoiding failure" type="technical-criterion">
+  <metric attrs="list(id = &quot;20140524&quot;, section = &quot;shortName&quot;, originalName = &quot;GreenIT - focus on pipe ruptures - avoiding failure&quot;, type = &quot;technical-criterion&quot;)">
     <english>GITI-RPT</english>
   </metric>
-  <metric id="20140524" section="name" originalName="GreenIT - focus on pipe ruptures - avoiding failure" type="technical-criterion">
+  <metric attrs="list(id = &quot;20140524&quot;, section = &quot;name&quot;, originalName = &quot;GreenIT - focus on pipe ruptures - avoiding failure&quot;, type = &quot;technical-criterion&quot;)">
     <english>GreenIT - focus on pipe ruptures - avoiding failure</english>
   </metric>
-  <metric id="20140524" section="rationale" originalName="GreenIT - focus on pipe ruptures - avoiding failure" type="technical-criterion">
+  <metric attrs="list(id = &quot;20140524&quot;, section = &quot;rationale&quot;, originalName = &quot;GreenIT - focus on pipe ruptures - avoiding failure&quot;, type = &quot;technical-criterion&quot;)">
     <english>GreenIT - focus on pipe ruptures - avoiding failure</english>
   </metric>
-  <metric id="20140525" section="shortName" originalName="GreenIT - focus on pipe leaks - algorithmic costs" type="technical-criterion">
+  <metric attrs="list(id = &quot;20140525&quot;, section = &quot;shortName&quot;, originalName = &quot;GreenIT - focus on pipe leaks - algorithmic costs&quot;, type = &quot;technical-criterion&quot;)">
     <english>GITI-LK</english>
   </metric>
-  <metric id="20140525" section="name" originalName="GreenIT - focus on pipe leaks - algorithmic costs" type="technical-criterion">
+  <metric attrs="list(id = &quot;20140525&quot;, section = &quot;name&quot;, originalName = &quot;GreenIT - focus on pipe leaks - algorithmic costs&quot;, type = &quot;technical-criterion&quot;)">
     <english>GreenIT - focus on pipe leaks - algorithmic costs</english>
   </metric>
-  <metric id="20140525" section="rationale" originalName="GreenIT - focus on pipe leaks - algorithmic costs" type="technical-criterion">
+  <metric attrs="list(id = &quot;20140525&quot;, section = &quot;rationale&quot;, originalName = &quot;GreenIT - focus on pipe leaks - algorithmic costs&quot;, type = &quot;technical-criterion&quot;)">
     <english>GreenIT - focus on pipe leaks - algorithmic costs</english>
   </metric>
-  <metric id="20140526" section="shortName" originalName="GreenIT - focus on pipe leaks - resource economy" type="technical-criterion">
+  <metric attrs="list(id = &quot;20140526&quot;, section = &quot;shortName&quot;, originalName = &quot;GreenIT - focus on pipe leaks - resource economy&quot;, type = &quot;technical-criterion&quot;)">
     <english>GITI-LK</english>
   </metric>
-  <metric id="20140526" section="name" originalName="GreenIT - focus on pipe leaks - resource economy" type="technical-criterion">
+  <metric attrs="list(id = &quot;20140526&quot;, section = &quot;name&quot;, originalName = &quot;GreenIT - focus on pipe leaks - resource economy&quot;, type = &quot;technical-criterion&quot;)">
     <english>GreenIT - focus on pipe leaks - resource economy</english>
   </metric>
-  <metric id="20140526" section="rationale" originalName="GreenIT - focus on pipe leaks - resource economy" type="technical-criterion">
+  <metric attrs="list(id = &quot;20140526&quot;, section = &quot;rationale&quot;, originalName = &quot;GreenIT - focus on pipe leaks - resource economy&quot;, type = &quot;technical-criterion&quot;)">
     <english>GreenIT - focus on pipe leaks - resource economy</english>
   </metric>
-</metics>
+</metrics>
