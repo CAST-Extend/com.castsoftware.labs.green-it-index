@@ -1,0 +1,49 @@
+<?xml version="1.0"?>
+
+<metics>
+  <metric id="20140522" section="shortName" originalName="GreenIT" type="business-criterion">
+    <english>GITI</english>
+  </metric>
+  <metric id="20140522" section="name" originalName="GreenIT" type="business-criterion">
+    <english>GreenIT index</english>
+  </metric>
+  <metric id="20140522" section="rationale" originalName="GreenIT" type="business-criterion">
+    <english>GreenIT index</english>
+  </metric>
+  <metric id="20140523" section="shortName" originalName="GreenIT - focus on pipe leaks - data access efficiency" type="technical-criterion">
+    <english>GITI-LK</english>
+  </metric>
+  <metric id="20140523" section="name" originalName="GreenIT - focus on pipe leaks - data access efficiency" type="technical-criterion">
+    <english>GreenIT - focus on pipe leaks - data access efficiency</english>
+  </metric>
+  <metric id="20140523" section="rationale" originalName="GreenIT - focus on pipe leaks - data access efficiency" type="technical-criterion">
+    <english>GreenIT - focus on pipe leaks - data access efficiency</english>
+  </metric>
+  <metric id="20140524" section="shortName" originalName="GreenIT - focus on pipe ruptures - avoiding failure" type="technical-criterion">
+    <english>GITI-RPT</english>
+  </metric>
+  <metric id="20140524" section="name" originalName="GreenIT - focus on pipe ruptures - avoiding failure" type="technical-criterion">
+    <english>GreenIT - focus on pipe ruptures - avoiding failure</english>
+  </metric>
+  <metric id="20140524" section="rationale" originalName="GreenIT - focus on pipe ruptures - avoiding failure" type="technical-criterion">
+    <english>GreenIT - focus on pipe ruptures - avoiding failure</english>
+  </metric>
+  <metric id="20140525" section="shortName" originalName="GreenIT - focus on pipe leaks - algorithmic costs" type="technical-criterion">
+    <english>GITI-LK</english>
+  </metric>
+  <metric id="20140525" section="name" originalName="GreenIT - focus on pipe leaks - algorithmic costs" type="technical-criterion">
+    <english>GreenIT - focus on pipe leaks - algorithmic costs</english>
+  </metric>
+  <metric id="20140525" section="rationale" originalName="GreenIT - focus on pipe leaks - algorithmic costs" type="technical-criterion">
+    <english>GreenIT - focus on pipe leaks - algorithmic costs</english>
+  </metric>
+  <metric id="20140526" section="shortName" originalName="GreenIT - focus on pipe leaks - resource economy" type="technical-criterion">
+    <english>GITI-LK</english>
+  </metric>
+  <metric id="20140526" section="name" originalName="GreenIT - focus on pipe leaks - resource economy" type="technical-criterion">
+    <english>GreenIT - focus on pipe leaks - resource economy</english>
+  </metric>
+  <metric id="20140526" section="rationale" originalName="GreenIT - focus on pipe leaks - resource economy" type="technical-criterion">
+    <english>GreenIT - focus on pipe leaks - resource economy</english>
+  </metric>
+</metics>

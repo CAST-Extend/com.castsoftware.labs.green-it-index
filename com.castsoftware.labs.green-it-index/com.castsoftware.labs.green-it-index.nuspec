@@ -1,0 +1,21 @@
+<?xml version="1.0"?>
+
+<package xmlns:xmlns="http://schemas.microsoft.com/packaging/2013/05/nuspec.xsd">
+  <metadata>
+    <version>3.0.0</version>
+    <title>GreenIT Index</title>
+    <authors>CAST Labs</authors>
+    <owners>CAST</owners>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <licenseUrl>https://github.com/CAST-Extend/com.castsoftware.labs.green-it-index/blob/master/LICENSE</licenseUrl>
+    <projectUrl>https://github.com/CAST-Extend/com.castsoftware.labs.green-it-index</projectUrl>
+    <iconUrl>https://github.com/CAST-Extend/com.castsoftware.labs.green-it-index/blob/master/green-it-index.png</iconUrl>
+    <description>This extension provides computation of the following new assessment indicator(s): GreenIT Index and supporting Technical Criteria</description>
+    <releaseNotes></releaseNotes>
+    <tags>CASTLabs Green Rules Reporting AAD AED Quality CSS Oracle MS CAIP8.3.x</tags>
+    <id>com.castsoftware.labs.green-it-index</id>
+    <dependencies>
+      <dependency id="CAIP" version="8.3.21"/>
+    </dependencies>
+  </metadata>
+</package>
