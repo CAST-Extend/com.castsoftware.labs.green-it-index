@@ -100,7 +100,7 @@
     </index>
   </table>
   
-  <scope name="MetricsScope">
+  <scope name="GreenMetricScope">
   	<scopetable name="DSS_METRIC_TYPES" filter="(METRIC_ID BETWEEN 20140522 AND 20140526)"/>
   	<scopetable name="DSS_METRIC_TYPE_TREES" filter="(METRIC_PARENT_ID BETWEEN 20140522 AND 20140526) OR (METRIC_ID BETWEEN 20140522 AND 20140526)"/>
   	<scopetable name="DSS_METRIC_VALUE_TYPES" filter="(METRIC_ID BETWEEN 20140522 AND 20140526)"/>
