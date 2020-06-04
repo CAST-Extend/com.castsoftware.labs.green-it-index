@@ -14,7 +14,7 @@
     <tags>CASTLabs Green Rules Reporting AAD AED Quality CSS Oracle MS CAIP8.3.x</tags>
     <id>com.castsoftware.labs.green-it-index</id>
     <dependencies>
-      <dependency id="CAIP" version="8.3.21"/>
+      <dependency id="CAIP" version="8.3.24"/>
     </dependencies>
   </metadata>
 </package>
