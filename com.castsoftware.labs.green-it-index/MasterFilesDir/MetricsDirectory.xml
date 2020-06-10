@@ -196,4 +196,6 @@
   <metric id="8100" originalName="Blocking synchronous calls should have associated timeouts" type="quality-rule" extern="true" active="true" detached="false" ignored="false"/>
   <metric id="8104" originalName="Close database resources ASAP" type="quality-rule" extern="true" active="true" detached="false" ignored="false"/>
   <metric id="8108" originalName="Avoid missing release of stream connection after an effective lifetime" type="quality-rule" extern="true" active="true" detached="false" ignored="false"/>
+  <metric id="8142" originalName="Prefer using indexes instead of subscripts" type="quality-rule" extern="true" active="true" detached="false" ignored="false"/>
+  <metric id="8140" originalName="Subscripts and iterators must be defined with BINARY usage" type="quality-rule" extern="true" active="true" detached="false" ignored="false"/>
 </metrics>
